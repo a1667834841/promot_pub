@@ -7,7 +7,7 @@ const { chromium } = require('@playwright/test');
   // 获取今天日期转为字符串
   const today = new Date().toISOString().slice(0, 10);
 
-  let mdContext = "## 每日prompt"+"\n"+"###"+today+"\n" + "<center class=\"half\">"
+  let mdContext = "## 每日prompt"+"\n"+"### "+today+"\n" + "<center class=\"half\">"
 
   // 获取 apiKey 通过 https://arthub.ai/assets/index.684ec127.js
 
@@ -43,6 +43,9 @@ const { chromium } = require('@playwright/test');
       console.log('src:', src);
       mdContext += `<img src="${src}" width="200"/>\n`;
     }
+
+    // 添加下划线
+    mdContext += '<hr>\n';
   }
 
   mdContext += '</center>';
