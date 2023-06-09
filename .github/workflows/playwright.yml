@@ -1,0 +1,36 @@
+name: prompts pub
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  schedule:
+  # * is a special character in YAML so you have to quote this string
+  - cron:  '2 7,16 * * *'
+jobs:
+  test:
+    timeout-minutes: 600
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: Install dependencies
+      run: npm ci
+    - name: Install Playwright Browsers
+      run: npx playwright install --with-deps
+    - name: Run play
+      run: npm run play
+    - name: Commit files
+      run: |
+         git config --local user.email "a1667834841@qq.com"
+         git config --local user.name "ggball"
+         git pull
+         git add README.md
+         git add play.js
+    - name: Push changes
+      uses:  ad-m/github-push-action@master
+      with:
+         github_token: ${{ secrets.MY_GIT_TOKEN }}
+         branch: main
