@@ -7,7 +7,7 @@ const { chromium } = require('@playwright/test');
   // 获取今天日期转为字符串
   const today = new Date().toISOString().slice(0, 10);
 
-  let mdContext = "## 每日prompt  "+today+"\n" + "<center class=\"half\">"
+  let mdContext = "## 每日prompt"+"\n"+"###"+today+"\n" + "<center class=\"half\">"
 
   // 获取 apiKey 通过 https://arthub.ai/assets/index.684ec127.js
 
