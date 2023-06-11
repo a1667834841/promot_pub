@@ -22,11 +22,8 @@
 <p>WUXIA  liuyifei</p>
 <img src="https://img5.arthub.ai/user-uploads/c1a8d917c09b621925af1c01a7e29416a9e96c5e/084e4433-91b5-461e-acb1-fc3679359e31/ah3-185f647b0581.jpeg" width="200"/>
 <hr>
-<p>best quality, masterpiece, ultra high res, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii aesthetic, fashion, cosplay girl, girlfriend, beauty, beautiful, flowers</p>
-<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/d5055616-e759-4bce-9eb2-575e35828fcb/ah3-2881647c8694.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/d5055616-e759-4bce-9eb2-575e35828fcb/ah3-17a9647c8694.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/d5055616-e759-4bce-9eb2-575e35828fcb/ah3-bd78647c8694.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/d5055616-e759-4bce-9eb2-575e35828fcb/ah3-10c647c8694.jpeg" width="200"/>
+<p>A detailed and intricate digital art piece in a cinematic style, this ultra high resolution portrait of a powerful alien beast is a true masterpiece. The beautiful lighting and playful design make it a trend-setter on ArtStation. A true award-winning work.</p>
+<img src="https://img5.arthub.ai/user-uploads/8abe23d7e52fbb4049a91ba0e6c41a7fa9b73cdd/ec5f2b84-a523-4db9-bfd0-4ce9a1638a1c/ah3-a32464838a4a.jpeg" width="200"/>
 <hr>
 <p>RAW photo, photo of A asian beauty girl with hourglass body wearing sport bra and leggings and in a gym, sweat, lifting dumbbell, workout, sexy dress, parfectbody, smile, workout in the gym room, (very detailed eyes, nice wide eyes), large ass, toned physique, cut out cleavage, sweaty skin, (tired face, tired smile, smile face, angelic face), (photorealistic:1.8), detailed skin, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, (highly detailed, fine details, intricate), (lens flare:0.5), (bloom:0.5), raytracing, specular lighting, 35mm masterpiece, Unreal Engine, hyperrealistic, dramatic, expansive</p>
 <img src="https://img5.arthub.ai/user-uploads/810cb1dba7737909f07d597914e5e2fa4557076a/23b4b327-2b87-4e5f-aed8-fd190fdcaa44/ah3-2fcf648313e1.jpeg" width="200"/>
@@ -50,7 +47,11 @@
 <p>stable diffusion</p>
 <img src="https://img5.arthub.ai/user-uploads/a3f9893dfb797ad379c6671b4d8126343238eff7/d81f7e17-04e0-45a2-b98d-f13bfaa21775/ah3-d0e6480635d.jpeg" width="200"/>
 <hr>
-<p>a typical european house with a slate roof, submerged under the water of the acean, school of fishes, scenic view, matte painting by christophe vacher and hubert robert, trending on artstation</p>
+<p>(((fat mons))), puffy, ((((crotch mound)))), close up angle, from below, masterpiece, ultra high res, (photorealistic:1.8), detailed skin</p>
+<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/007bdd26-be98-4601-be06-932f99ebdf57/ah3-85ca6480ae86.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/007bdd26-be98-4601-be06-932f99ebdf57/ah3-8dd06480ae86.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/007bdd26-be98-4601-be06-932f99ebdf57/ah3-690f6480ae86.jpeg" width="200"/>
+<hr>
 <p>intricate detailed, hyperrealistic, best quality, masterpiece, realistic, ultra high res, top quality, (photorealistic:1.8), detailed skin, hard metal, shiny, scifi, futuristic, cyberpunk, sunlight, white body armor, (plastic:1.2), navel, chubby, long hair, big belly</p>
 <img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/9d06d61c-3636-4605-bce4-7746c6a32c3a/ah3-559864819501.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/9d06d61c-3636-4605-bce4-7746c6a32c3a/ah3-1d0064819501.jpeg" width="200"/>
@@ -93,17 +94,23 @@
 <img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/6ce0ee89-53ea-40b3-bd4c-6aecbeaa53d6/ah3-8ced6481959b.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/6ce0ee89-53ea-40b3-bd4c-6aecbeaa53d6/ah3-31946481959b.jpeg" width="200"/>
 <hr>
-<p>(((fat mons))), puffy, ((((crotch mound)))), close up angle, from below, masterpiece, ultra high res, (photorealistic:1.8), detailed skin</p>
-<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/007bdd26-be98-4601-be06-932f99ebdf57/ah3-85ca6480ae86.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/007bdd26-be98-4601-be06-932f99ebdf57/ah3-8dd06480ae86.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/007bdd26-be98-4601-be06-932f99ebdf57/ah3-690f6480ae86.jpeg" width="200"/>
+<p>colorful meats still life on a table at a park outdoors with people laughing at it, film photograph by Garry Winogrand, film, kodachrome</p>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/94a4239c-4e6c-4bae-bc4d-a3f56ae6f606/ah3-8a4a64835c70.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/94a4239c-4e6c-4bae-bc4d-a3f56ae6f606/ah3-3e6264835c70.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/94a4239c-4e6c-4bae-bc4d-a3f56ae6f606/ah3-d94264835c70.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/94a4239c-4e6c-4bae-bc4d-a3f56ae6f606/ah3-139764835c70.jpeg" width="200"/>
 <hr>
-<p>The tower of Babel, art by Thomas Kinkade</p>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/ea663b8f-d6d7-456e-a057-db431e6f485c/ah3-f2886482a757.jpeg" width="200"/>
-<hr>
-<p>RAW photo, photo of A korean beauty girl with big breasts and hard nipple and small waist and big buttocks wearing sport bra with thin fabric and transparent leggings and pose in a gym, sexy dress, parfectbody, smile, nipple visible, workout in the gym room, (very detailed eyes, nice wide eyes), large ass, toned physique, cut out cleavage, sweaty skin, (tired face, tired smile, smile face, angelic face), (photorealistic:1.8), detailed skin, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, (highly detailed, fine details, intricate), (lens flare:0.5), (bloom:0.5), raytracing, specular lighting, 35mm masterpiece, Unreal Engine, hyperrealistic, dramatic, expansive</p>
-<img src="https://img5.arthub.ai/user-uploads/a56dd5f2ac4bcb87f5ed5eaa1aba9d8d288dabcc/ecfcae95-e4c8-49e0-a5ba-218787e7d60f/ah3-29c46482f677.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/a56dd5f2ac4bcb87f5ed5eaa1aba9d8d288dabcc/ecfcae95-e4c8-49e0-a5ba-218787e7d60f/ah3-9add6482f677.jpeg" width="200"/>
+<p>a typical european house with a slate roof, submerged under the water of the acean, school of fishes, scenic view, matte painting by christophe vacher and hubert robert, trending on artstation</p>
+<p>parameters
+
+Black lace dudou, 1girl, large breasts, beautiful face, solo, candle, brown hair, long hair, <lora:flowergirl:0.9>, ulzzang-6500-v1.1, (raw photo:1.2), ((photorealistic:1.4))best quality, masterpiece, illustration, an extremely delicate and beautiful, extremely detailed, CG, unity, 8k wallpaper, Amazing, finely detail, masterpiece, best quality, official art, extremely detailed CG unity 8k wallpaper, absurdres, incredibly absurdres, huge filesize, ultra-detailed, highres, extremely detailed, beautiful detailed girl, extremely detailed eyes and face, beautiful detailed eyes, cinematic lighting, 1girl, see-through, looking at viewer, full body, full-body shot, outdoors, arms behind back, (chinese clothes), <lora:BellyWrapAKindOfChinese_v02:0.8>
+Negative prompt: (((mole))), sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, (long hair:1.4), DeepNegative, (fat:1.2), facing away, looking away, tilted head, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worstquality, low quality, normal quality, jpegartifacts, signature, watermark, username, blurry, bad feet, cropped, poorly drawn hands, poorly drawn face, mutation, deformed, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, extra fingers, fewer digits, extra limbs, extra arms, extra legs, malformed limbs, fused fingers, too many fingers, long neck, cross-eyed, mutated hands, polar lowres, bad body, bad proportions, gross proportions, text, error, missing fingers, missing arms, missing legs, extra digit, extra arms, extra leg, extra foot, (freckles), (mole:2)
+Steps: 30, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 1537971479, Size: 640x960, Model hash: fc2511737a, Model: chilloutmix_NiPrunedFp32Fix, Clip skip: 2, ENSD: 31337</p>
+<img src="https://img5.arthub.ai/user-uploads/718e8d48025fbe2de39f063e3af6f4d42f66cc55/e60923b4-95c5-4d50-8cc9-15a72c781e67/ah3-199b645b0998.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/718e8d48025fbe2de39f063e3af6f4d42f66cc55/e60923b4-95c5-4d50-8cc9-15a72c781e67/ah3-7f99645b0998.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/718e8d48025fbe2de39f063e3af6f4d42f66cc55/e60923b4-95c5-4d50-8cc9-15a72c781e67/ah3-58eb645b0998.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/718e8d48025fbe2de39f063e3af6f4d42f66cc55/e60923b4-95c5-4d50-8cc9-15a72c781e67/ah3-c8f5645b0998.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/718e8d48025fbe2de39f063e3af6f4d42f66cc55/e60923b4-95c5-4d50-8cc9-15a72c781e67/ah3-eab6645b0998.jpeg" width="200"/>
 <hr>
 <p>lady，close up，white hair</p>
 <img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/365fd12a-32e0-4665-85c6-3d3b1ab435fb/ah3-d90d648198df.jpeg" width="200"/>
@@ -120,17 +127,17 @@
 <img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/037f3cbb-8c96-4699-aa94-5ec970cab77b/ah3-55fa647777ba.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/037f3cbb-8c96-4699-aa94-5ec970cab77b/ah3-f241647777ba.jpeg" width="200"/>
 <hr>
-<p>A detailed and intricate digital art piece in a cinematic style, this ultra high resolution portrait of a powerful alien beast is a true masterpiece. The beautiful lighting and playful design make it a trend-setter on ArtStation. A true award-winning work.</p>
-<img src="https://img5.arthub.ai/user-uploads/8abe23d7e52fbb4049a91ba0e6c41a7fa9b73cdd/ec5f2b84-a523-4db9-bfd0-4ce9a1638a1c/ah3-a32464838a4a.jpeg" width="200"/>
+<p>best quality, masterpiece, ultra high res, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii aesthetic, fashion, cosplay girl, girlfriend, beauty, beautiful, flowers</p>
+<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/d5055616-e759-4bce-9eb2-575e35828fcb/ah3-2881647c8694.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/d5055616-e759-4bce-9eb2-575e35828fcb/ah3-17a9647c8694.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/d5055616-e759-4bce-9eb2-575e35828fcb/ah3-bd78647c8694.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/d5055616-e759-4bce-9eb2-575e35828fcb/ah3-10c647c8694.jpeg" width="200"/>
 <hr>
 <p>赤裸，性感，nsfw，色情，诱惑，出汗，绝美，女人</p>
 <img src="https://img5.arthub.ai/user-uploads/8d94357ab0eca1af8f0448d62667b7db925aa221/6a6b0799-17a4-462b-8077-ca87f0eaab93/ah3-d6036482de9a.jpeg" width="200"/>
 <hr>
-<p>colorful meats still life on a table at a park outdoors with people laughing at it, film photograph by Garry Winogrand, film, kodachrome</p>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/94a4239c-4e6c-4bae-bc4d-a3f56ae6f606/ah3-8a4a64835c70.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/94a4239c-4e6c-4bae-bc4d-a3f56ae6f606/ah3-3e6264835c70.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/94a4239c-4e6c-4bae-bc4d-a3f56ae6f606/ah3-d94264835c70.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/94a4239c-4e6c-4bae-bc4d-a3f56ae6f606/ah3-139764835c70.jpeg" width="200"/>
+<p>black ballet lady，close up</p>
+<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/e6568e35-4392-42e9-94aa-4d9fc6138e20/ah3-8b0c6481979b.jpeg" width="200"/>
 <hr>
 <p>intricate detailed, hyperrealistic, best quality, masterpiece, realistic, ultra high res, top quality, (photorealistic:1.8), detailed skin, curvy, fat, leotard, ass, butt, wedge, highwaisted leotard, thong, busty</p>
 <img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/2c8c7bde-c3a1-4244-be1e-83b295c878f0/ah3-33bc648194f8.jpeg" width="200"/>
@@ -148,8 +155,8 @@
 <img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-882264799f48.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-b87464799f48.jpeg" width="200"/>
 <hr>
-<p>black ballet lady，close up</p>
-<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/e6568e35-4392-42e9-94aa-4d9fc6138e20/ah3-8b0c6481979b.jpeg" width="200"/>
+<p>The tower of Babel, art by Thomas Kinkade</p>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/ea663b8f-d6d7-456e-a057-db431e6f485c/ah3-f2886482a757.jpeg" width="200"/>
 <hr>
 <p>best quality, masterpiece, ultra high res, (photorealistic:1.8), detailed skin, cleavage, (huge breasts:2), bangs, short hair</p>
 <img src="https://img5.arthub.ai/user-uploads/7cb4513e185781e400aebc2fd2fdd73265d6b1b3/769a8b1f-e8e3-4863-b400-44cc1b95124b/ah3-9ef76480ada7.jpeg" width="200"/>
