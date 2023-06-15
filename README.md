@@ -11,11 +11,17 @@
 <p>dusty blue，close up</p>
 <img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/69f7baaf-4e62-4cd2-8c78-fba734914c20/ah3-805e64897b10.jpeg" width="200"/>
 <hr>
-<p>dusty blue，close up</p>
-<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/67bbb3e6-e7d8-47f8-9884-c2b9c5e49c4f/ah3-5a2f648a9089.jpeg" width="200"/>
+<p>best quality, (masterpiece:1.5), ultra high res, (looking at the viewer), posing, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii, smiling, crazy aesthetic, (shiny eyes), ((very large breasts:2)), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, (((detailed hands))), (((detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((detailed body))).</p>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-2684648a242c.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-8e0d648a242c.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-1748648a242c.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-8c02648a242c.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-e35f648a242c.jpeg" width="200"/>
 <hr>
-<p>dusty pink，close up</p>
-<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/6f0c90e5-1dbc-46c8-99d1-adc641c3d258/ah3-6fb364896d9b.jpeg" width="200"/>
+<p>(best quality:2), (masterpiece:2), ((symmetrical body structure:1.5)), ((humid skin effect hydrated:2)), ultra high resolution, 4k wallpaper, hdr, (looking at the viewer), posing, ((photorealistic:1.8)), detailed skin, detailed bikini, detailed long hair, straight hair, kawaii, smiling, (crazy aesthetic), ((((big shiny humid eyes)))), ((((detailed large breasts:1.5)))), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, ((((ultra detailed hands, detailed perfect hand)))), ((((realistic, ultra detailed eyes, hazel eyes)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, ((extreme ultra detail)), metahuman, creator, (((masterpiece))), (((realistic))), (((detailed))), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air, ((milf at the seaside, focused)).</p>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/8a8425b9-c0e1-4ec5-898a-28e80e6e5a4c/ah3-10af648a7651.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/8a8425b9-c0e1-4ec5-898a-28e80e6e5a4c/ah3-ea23648a7651.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/8a8425b9-c0e1-4ec5-898a-28e80e6e5a4c/ah3-7ebf648a7651.jpeg" width="200"/>
 <hr>
 <p>best quality, (masterpiece:1.5), ((symmetrical body structure)), ((humid hydrated skin effect:2)), ultra high res, (looking at the viewer), posing, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii, smiling, crazy aesthetic, ((((big shiny humid eyes)))), ((((ultra detailed natural large breasts:1.2)))), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, (((ultra detailed hands))), ((((realistic, ultra detailed pink eyes)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, extreme detail, metahuman, creator, (best quality:1.5), (((masterpiece))), (((realistic))), (((detailed))), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air.</p>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/c49f3b9c-7285-4008-95f8-1141cc91a780/ah3-b051648a3b8b.jpeg" width="200"/>
@@ -24,18 +30,18 @@
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/c49f3b9c-7285-4008-95f8-1141cc91a780/ah3-b324648a3b8b.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/c49f3b9c-7285-4008-95f8-1141cc91a780/ah3-9589648a3b8b.jpeg" width="200"/>
 <hr>
-<p>pineapple with its leaves spread, high resolution, raw vulnerability, 8k</p>
-<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/47b446aa-efe7-4fff-ad05-096a2b6c1a5a/ah3-2847648ab0b9.jpeg" width="200"/>
+<p>girl of a pineapple with its leaves spread, close up</p>
+<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/be96cab7-c283-498e-b7f6-64223cdee18d/ah3-ff9a648aba9c.jpeg" width="200"/>
 <hr>
 <p>dusty green，close up</p>
 <img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/8715c5fd-2073-4a28-8ac5-ab22d422762d/ah3-406b648aab1b.jpeg" width="200"/>
 <hr>
-<p>dusty pink，close up</p>
-<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/e57895da-bc88-43a5-98a2-864b83968185/ah3-2a6a64896db7.jpeg" width="200"/>
+<p>best quality, (masterpiece:1.2), ultra high res, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii aesthetic, fashion, cosplay girl, girlfriend, beauty, beautiful, flowers, (((detailed hands))), (((detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((detailed body))), (large breasts:1.2), </p>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/85c224f1-9a43-432e-89fb-e5f248e6ebf7/ah3-1e53648a16ba.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/85c224f1-9a43-432e-89fb-e5f248e6ebf7/ah3-f3d8648a16ba.jpeg" width="200"/>
 <hr>
-<p>best quality, (masterpiece:1.2), ultra high res, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii aesthetic, fashion, cosplay girl, girlfriend, beauty, beautiful, flowers, (((detailed hands))), (((detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((detailed body))), large breast.</p>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/e0a947cd-3d53-4bc6-b4c6-2e6fc3a7da07/ah3-ef1a64896d02.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/e0a947cd-3d53-4bc6-b4c6-2e6fc3a7da07/ah3-5ba164896d02.jpeg" width="200"/>
+<p>dusty pink</p>
+<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/402f7d85-ca54-4f58-8b8b-2b3cf5cb549c/ah3-ab8364896c34.jpeg" width="200"/>
 <hr>
 <p>best quality, (masterpiece:1.5), ((symmetrical body structure)), ultra high res, (looking at the viewer), posing, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii, smiling, crazy aesthetic, ((shiny ultra detailed eyes)), ((ultra detailed natural large breasts)), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, (((ultra detailed hands))), (((ultra detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line))).</p>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/f1534d69-65f1-479f-9212-7085f3d1d446/ah3-6f64648a3682.jpeg" width="200"/>
@@ -47,24 +53,14 @@
 <p>dirty yellow</p>
 <img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/aa3ee4de-fcc5-472f-9303-675a9cdf8c4c/ah3-4ab5648ac0f4.jpeg" width="200"/>
 <hr>
-<p>(best quality:2), (masterpiece:2), ((symmetrical body structure:1.5)), ((humid skin effect hydrated:2)), ultra high resolution, 4k wallpaper, hdr, (looking at the viewer), posing, ((photorealistic:1.8)), detailed skin, detailed bikini, detailed long hair, straight hair, kawaii, smiling, (crazy aesthetic), ((((big shiny humid eyes)))), ((((detailed large breasts:1.5)))), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, ((((ultra detailed hands, detailed perfect hand)))), ((((realistic, ultra detailed eyes, hazel eyes)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, ((extreme ultra detail)), metahuman, creator, (((masterpiece))), (((realistic))), (((detailed))), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air, ((milf at the seaside, focused)).</p>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-969e648a7480.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-7f33648a7480.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-c67e648a7480.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-eb7c648a7480.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-2d51648a7480.jpeg" width="200"/>
+<p>dirty white</p>
+<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/99a852c7-d8dc-4cda-8be5-de4786f973fe/ah3-3683648ada04.jpeg" width="200"/>
 <hr>
-<p>(best quality:2), (masterpiece:2), ((symmetrical body structure:1.5)), ((humid skin effect hydrated:2)), ultra high resolution, 4k wallpaper, hdr, (looking at the viewer), posing, ((photorealistic:1.8)), detailed skin, detailed bikini, detailed long hair, straight hair, kawaii, smiling, (crazy aesthetic), ((((big shiny humid eyes)))), ((((detailed large breasts:1.5)))), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, ((((ultra detailed hands, detailed perfect hand)))), ((((realistic, ultra detailed eyes, hazel eyes)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, ((extreme ultra detail)), metahuman, creator, (((masterpiece))), (((realistic))), (((detailed))), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air, ((milf at the seaside, focused)).</p>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/8a8425b9-c0e1-4ec5-898a-28e80e6e5a4c/ah3-10af648a7651.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/8a8425b9-c0e1-4ec5-898a-28e80e6e5a4c/ah3-ea23648a7651.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/8a8425b9-c0e1-4ec5-898a-28e80e6e5a4c/ah3-7ebf648a7651.jpeg" width="200"/>
+<p>dusty blue，close up</p>
+<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/67bbb3e6-e7d8-47f8-9884-c2b9c5e49c4f/ah3-5a2f648a9089.jpeg" width="200"/>
 <hr>
-<p>best quality, (masterpiece:1.5), ultra high res, (looking at the viewer), posing, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii, smiling, crazy aesthetic, (shiny eyes), ((very large breasts:2)), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, (((detailed hands))), (((detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((detailed body))).</p>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-2684648a242c.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-8e0d648a242c.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-1748648a242c.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-8c02648a242c.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/306f6398-d83f-4903-a159-583143cebfe6/ah3-e35f648a242c.jpeg" width="200"/>
+<p>dusty pink，close up</p>
+<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/6f0c90e5-1dbc-46c8-99d1-adc641c3d258/ah3-6fb364896d9b.jpeg" width="200"/>
 <hr>
 <p>best quality, (masterpiece:1.5), ((symmetrical body structure)), ultra high res, (looking at the viewer), posing, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii, smiling, crazy aesthetic, ((shiny ultra detailed eyes)), ((ultra detailed natural large breasts:1.5)), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, (((ultra detailed hands))), (((ultra detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line))).</p>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/1fad3d62-a9d4-4b7b-b366-c84534f519fa/ah3-1682648a35b9.jpeg" width="200"/>
@@ -72,16 +68,11 @@
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/1fad3d62-a9d4-4b7b-b366-c84534f519fa/ah3-9123648a35b9.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/1fad3d62-a9d4-4b7b-b366-c84534f519fa/ah3-6113648a35b9.jpeg" width="200"/>
 <hr>
-<p>best quality, (masterpiece:1.5), ((symmetrical body structure)), ((humid hydrated skin effect:2)), ultra high res, (looking at the viewer), posing, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii, smiling, crazy aesthetic, ((((big shiny humid eyes)))), ((((ultra detailed natural large breasts:1.2)))), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, (((ultra detailed hands))), ((((realistic, ultra detailed pink eyes)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, extreme detail, metahuman, creator, (best quality:1.5), (((masterpiece))), (((realistic))), (((detailed))), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air.</p>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-a3aa648a39c9.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-9641648a39c9.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-d57e648a39c9.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-2dcd648a39c9.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-7bac648a39c9.jpeg" width="200"/>
+<p>pineapple with its leaves spread, high resolution, raw vulnerability, 8k</p>
+<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/47b446aa-efe7-4fff-ad05-096a2b6c1a5a/ah3-2847648ab0b9.jpeg" width="200"/>
 <hr>
-<p>best quality, (masterpiece:1.2), ultra high res, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii, crazy aesthetic, fashion, cosplay girl, girlfriend, beauty, beautiful, flowers, (((detailed hands))), (((detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((detailed body))), (large breasts:1.5), </p>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/5f9b9eda-e9c3-4711-8b28-9209e520be64/ah3-37f7648a16e8.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/5f9b9eda-e9c3-4711-8b28-9209e520be64/ah3-924a648a16e8.jpeg" width="200"/>
+<p>dusty pink，close up</p>
+<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/e57895da-bc88-43a5-98a2-864b83968185/ah3-2a6a64896db7.jpeg" width="200"/>
 <hr>
 <p>(best quality:1.5), (masterpiece:1.5), ((symmetrical body structure)), ((humid hydrated skin effect:2)), ultra high resolution, 4k wallpaper, (looking at the viewer), posing, ((photorealistic:1.8)), detailed skin, bikini, blue hair, straight hair, kawaii, smiling, crazy aesthetic, ((((big shiny humid eyes)))), ((((ultra detailed natural large breasts:1.2)))), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, (((ultra detailed hands))), ((((realistic, ultra detailed pink eyes)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, extreme detail, metahuman, creator, (((masterpiece))), (((realistic))), (((detailed))), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air.</p>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/b37f7291-f883-4638-a52e-77c6cf2e2d0a/ah3-20c5648a3eb2.jpeg" width="200"/>
@@ -93,18 +84,22 @@
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/b37f7291-f883-4638-a52e-77c6cf2e2d0a/ah3-c5c5648a3eb2.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/b37f7291-f883-4638-a52e-77c6cf2e2d0a/ah3-e08c648a3eb2.jpeg" width="200"/>
 <hr>
-<p>dusty pink</p>
-<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/402f7d85-ca54-4f58-8b8b-2b3cf5cb549c/ah3-ab8364896c34.jpeg" width="200"/>
+<p>think of me as a place, anthropomorphic face as a house, psychedelic cyberpunk, drawing by Salvadoré Dali and Max Ernst</p>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/cd623ffd-e5e2-4e37-8682-e582f4ca9610/ah3-66036489e0e7.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/cd623ffd-e5e2-4e37-8682-e582f4ca9610/ah3-76806489e0e7.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/cd623ffd-e5e2-4e37-8682-e582f4ca9610/ah3-74866489e0e7.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/cd623ffd-e5e2-4e37-8682-e582f4ca9610/ah3-81916489e0e7.jpeg" width="200"/>
 <hr>
 <p>(best quality:2), (masterpiece:2), portrait of cute woman, ((detailed large breast:1.1)), ((detailed small nipples:1.2)), ((symmetrical body structure:1.5)), ((humid skin effect, hydrated skin:2)), ((detailed hands:1.5)), ultra high resolution, 4k wallpaper, hdr, (looking at the viewer), posing to the camera, ((photorealistic:2)), detailed skin, cute bikini, detailed long hair, straight hair, kawaii, smiling, crazy aesthetic, ((((big shiny humid eyes)))), fashion, gravure model, cosplay woman, girlfriend, hot wife, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, ((((ultra detailed hands, detailed perfect hand)))), ((((realistic, ultra detailed eyes, hazel eyes)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, ((extreme ultra detail)), meta human, creator, (((masterpiece))), (((realistic))), (((detailed))), gorgeous busty middle age female, seductive_smile, (((sexy))), godrays, dust in the air, ((milf)), ((at the seaside)).</p>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/996086bf-eb94-4e3d-b662-1f3d7e471349/ah3-b966648ad452.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/996086bf-eb94-4e3d-b662-1f3d7e471349/ah3-810d648ad452.jpeg" width="200"/>
 <hr>
-<p>dirty white</p>
-<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/99a852c7-d8dc-4cda-8be5-de4786f973fe/ah3-3683648ada04.jpeg" width="200"/>
-<hr>
-<p>girl of a sunflower with its leaves spread, close up</p>
-<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/d7217e0e-90fa-4809-ad7a-26939c1e85bd/ah3-210c648abbb2.jpeg" width="200"/>
+<p>(best quality:2), (masterpiece:2), ((symmetrical body structure:1.5)), ((humid skin effect hydrated:2)), ultra high resolution, 4k wallpaper, hdr, (looking at the viewer), posing, ((photorealistic:1.8)), detailed skin, detailed bikini, detailed long hair, straight hair, kawaii, smiling, (crazy aesthetic), ((((big shiny humid eyes)))), ((((detailed large breasts:1.5)))), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, ((((ultra detailed hands, detailed perfect hand)))), ((((realistic, ultra detailed eyes, hazel eyes)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, ((extreme ultra detail)), metahuman, creator, (((masterpiece))), (((realistic))), (((detailed))), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air, ((milf at the seaside, focused)).</p>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-969e648a7480.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-7f33648a7480.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-c67e648a7480.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-eb7c648a7480.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/284038a0-e440-4801-9c46-b1e70400cf09/ah3-2d51648a7480.jpeg" width="200"/>
 <hr>
 <p>RAW photo, wide field of view photo of A korean beauty with big breasts and hard nipple and small waist and big buttocks wearing satin collar shirt with thin fabric and black short skirt and pose at office, nipple visible on shirt, wearing black mini skirt, unbuttoned button shirt, nipple visible, (very detailed eyes, nice wide eyes), large ass, toned physique, cut out cleavage, (bra less, no bra), (tired face, tired smile, smile face, angelic face), (photorealistic:1.8), detailed skin, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, (highly detailed, fine details, intricate), (lens flare:0.5), (bloom:0.5), raytracing, specular lighting, 35mm masterpiece, Unreal Engine, pornhub, hyperrealistic, dramatic, expansive</p>
 <img src="https://img5.arthub.ai/user-uploads/810cb1dba7737909f07d597914e5e2fa4557076a/3e0de73f-74fb-4d63-b5e3-c232b2f3d2ed/ah3-a14864829cac.jpeg" width="200"/>
@@ -114,6 +109,9 @@
 <img src="https://img5.arthub.ai/user-uploads/810cb1dba7737909f07d597914e5e2fa4557076a/3e0de73f-74fb-4d63-b5e3-c232b2f3d2ed/ah3-2f9764829cac.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/810cb1dba7737909f07d597914e5e2fa4557076a/3e0de73f-74fb-4d63-b5e3-c232b2f3d2ed/ah3-abc064829cac.jpeg" width="200"/>
 <hr>
+<p>girl of a sunflower with its leaves spread, close up</p>
+<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/d7217e0e-90fa-4809-ad7a-26939c1e85bd/ah3-210c648abbb2.jpeg" width="200"/>
+<hr>
 <p>(best quality:2), (masterpiece:2), ((symmetrical body structure:1.5)), ((humid skin effect hydrated:2)), ultra high resolution, 4k wallpaper, hdr, (looking at the viewer), posing, ((photorealistic:1.8)), detailed skin, detailed bikini, detailed long hair, straight hair, kawaii, smiling, crazy aesthetic, ((((big shiny humid eyes)))), ((((ultra detailed natural large breasts:1.2)))), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, (((ultra detailed hands))), ((((realistic, ultra detailed eyes colored pink)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, ((extreme ultra detail)), metahuman, creator, (((masterpiece))), (((realistic))), (((detailed))), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air, ((milf at the seaside, focused)).</p>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/910ebab3-44d8-40d4-96bc-2b880f4d7993/ah3-a42c648a7635.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/910ebab3-44d8-40d4-96bc-2b880f4d7993/ah3-29a8648a7635.jpeg" width="200"/>
@@ -121,21 +119,23 @@
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/910ebab3-44d8-40d4-96bc-2b880f4d7993/ah3-379648a7635.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/910ebab3-44d8-40d4-96bc-2b880f4d7993/ah3-cba2648a7635.jpeg" width="200"/>
 <hr>
-<p>girl of a pineapple with its leaves spread, close up</p>
-<img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/be96cab7-c283-498e-b7f6-64223cdee18d/ah3-ff9a648aba9c.jpeg" width="200"/>
+<p>best quality, (masterpiece:1.5), ((symmetrical body structure)), ((humid hydrated skin effect:2)), ultra high res, (looking at the viewer), posing, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii, smiling, crazy aesthetic, ((((big shiny humid eyes)))), ((((ultra detailed natural large breasts:1.2)))), fashion, gravure model, cosplay girl, girlfriend, intrinsic style, (((ultra detailed face))), beauty, beautiful, flowers, (((ultra detailed hands))), ((((realistic, ultra detailed pink eyes)))), trending on Artstation, Octane Render, Global Illumination, (((ultra detailed body, body line, hips))), featured on pixiv, cinematic composition, extreme detail, metahuman, creator, (best quality:1.5), (((masterpiece))), (((realistic))), (((detailed))), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air.</p>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-a3aa648a39c9.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-9641648a39c9.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-d57e648a39c9.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-2dcd648a39c9.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/03579352-aab6-478b-af5f-fbc6f7589c9d/ah3-7bac648a39c9.jpeg" width="200"/>
 <hr>
 <p>face glitter, golden</p>
 <img src="https://img5.arthub.ai/user-uploads/451e9547dd8d0cc74929a46428f1b39421a142ef/87989967-efc1-4023-b574-ef090a4fd99d/ah3-945f648aae13.jpeg" width="200"/>
 <hr>
-<p>best quality, (masterpiece:1.2), ultra high res, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii aesthetic, fashion, cosplay girl, girlfriend, beauty, beautiful, flowers, (((detailed hands))), (((detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((detailed body))), (large breasts:1.2), </p>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/85c224f1-9a43-432e-89fb-e5f248e6ebf7/ah3-1e53648a16ba.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/85c224f1-9a43-432e-89fb-e5f248e6ebf7/ah3-f3d8648a16ba.jpeg" width="200"/>
+<p>best quality, (masterpiece:1.2), ultra high res, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii, crazy aesthetic, fashion, cosplay girl, girlfriend, beauty, beautiful, flowers, (((detailed hands))), (((detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((detailed body))), (large breasts:1.5), </p>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/5f9b9eda-e9c3-4711-8b28-9209e520be64/ah3-37f7648a16e8.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/5f9b9eda-e9c3-4711-8b28-9209e520be64/ah3-924a648a16e8.jpeg" width="200"/>
 <hr>
-<p>think of me as a place, anthropomorphic face as a house, psychedelic cyberpunk, drawing by Salvadoré Dali and Max Ernst</p>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/cd623ffd-e5e2-4e37-8682-e582f4ca9610/ah3-66036489e0e7.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/cd623ffd-e5e2-4e37-8682-e582f4ca9610/ah3-76806489e0e7.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/cd623ffd-e5e2-4e37-8682-e582f4ca9610/ah3-74866489e0e7.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/cd623ffd-e5e2-4e37-8682-e582f4ca9610/ah3-81916489e0e7.jpeg" width="200"/>
+<p>best quality, (masterpiece:1.2), ultra high res, (photorealistic:1.8), detailed skin, pink bikini, blue hair, straight hair, kawaii aesthetic, fashion, cosplay girl, girlfriend, beauty, beautiful, flowers, (((detailed hands))), (((detailed eyes))), trending on Artstation, Octane Render, Global Illumination, (((detailed body))), large breast.</p>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/e0a947cd-3d53-4bc6-b4c6-2e6fc3a7da07/ah3-ef1a64896d02.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/0ab7f164e32ed42c36649ab21961569451c51908/e0a947cd-3d53-4bc6-b4c6-2e6fc3a7da07/ah3-5ba164896d02.jpeg" width="200"/>
 <hr>
 <p>raw photo, professional photograph of A happy beautiful young Malay woman with tight tshirt and skinny jeans with high heels in park, outdoor, Over the Shoulder pose, long hair, white tshirt, tight tshirt, skinny jeans, small waist, big ass, full body, masterpiece, detailed skin, big boobs, big breast, ggg cup, no bra, nipple visible, detailed eyes, beautiful eyes, ultra realistic, tight jeans, camel toe, high cut skinny jeans, blue jeans, nice ass, high heels, black heels, ((sultry flirty look)), freckles, beautiful symmetrical face, cute natural makeup, makeup, Kodak Ultra Max, 85mm, shot on iphone 7, dslr, high quality, raw, 4k, ultra realistic, concept art, elegant, highly detailed, intricate, sharp focus, depth of field, f/1. 8, 85mm, (professionally color graded), ((bright soft diffused light)), trending on instagram, trending on tumblr, hdr 4k, 8k</p>
 <img src="https://img5.arthub.ai/user-uploads/810cb1dba7737909f07d597914e5e2fa4557076a/b1d46950-2b43-48a3-a2cb-61a0f4cffc66/ah3-decc64869dfb.jpeg" width="200"/>
