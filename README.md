@@ -3,8 +3,8 @@
 <center class="half"><p>female siberian Russian concubine with slim curvy body, wearing a ushanka, at night, 1400s, painting by gaston bussiere, greg rutkowski, yoji shinkawa, yoshitaka amano, tsutomu nihei, donato giancola, tim hildebrandt, oil on canvas, {full body shot:from behind shot:looking over shoulder}, traditional russian clothing, trending on artstation, featured on pixiv, cinematic composition, extreme detail, metahuman creator, (best quality:1.4), ((masterpiece)), ((realistic)), (detailed), portrait_of_exotic_girls, seductive_smile, (((sexy))), godrays, dust in the air</p>
 <img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/89a8e2a3-abd5-40bc-b399-412d27dcaaa0/ah3-6c5f647c9c08.jpg" width="200"/>
 <hr>
-<p><lora:add_detail:1>, <lora:epi_noiseoffset2:0.35>, art by Emery Hawkins, Physically based render, Pencil painting, 3/4 view of a A cuban Beauty in a bikini in downtown Miami, the Sun is shining and the Sky is blue. Wearing {glasses:hat}. Photographed from {up close:front:behind}, she is looking {back at the Camera:up away from the camera:straight at the camera}. Her figure is a bit curvy but she is nonetheless a real beauty. Her hair is very {long:short:mohawk}, reaching down to her well formed ass. Her skin is wet, 🤠, Surfing, film grain, Polaroid, L USM, (NSFW), (sexy), (high quality), (8k), (detailed), (masterpiece), (((realistic hands)))</p>
-<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/d48373d8-d930-45f4-a584-c06080b04f64/ah3-2cfc647f1fec.jpg" width="200"/>
+<p>WUXIA  liuyifei</p>
+<img src="https://img5.arthub.ai/user-uploads/c1a8d917c09b621925af1c01a7e29416a9e96c5e/084e4433-91b5-461e-acb1-fc3679359e31/ah3-185f647b0581.jpeg" width="200"/>
 <hr>
 <p>best quality, face focus, soft light, (depth of field), ultra high res, (photorealistic:1.4), RAW photo, (portrait:1.4), (from side:1.2) 1japanese girl, solo, cute, (shy, smile:1.1), (brown eyes), detailed beautiful face, (midi_hair), The Great Hall of a European Castle, walking, (burgundy formal long dress:1.4) <lora:japaneseDollLikeness_v10:0.2>, Canon50</p>
 <img src="https://img5.arthub.ai/user-uploads/1d7c959d735917cbe4f99ff34bfb9de9b490c3b0/09d3d22a-f9c5-41ab-a4b7-17786e59554d/ah3-70ac6485b1b9.jpeg" width="200"/>
@@ -18,9 +18,11 @@
 <img src="https://img5.arthub.ai/user-uploads/810cb1dba7737909f07d597914e5e2fa4557076a/d8444e77-9e2b-4188-9fdc-a4b05258e74e/ah3-760164835fcf.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/810cb1dba7737909f07d597914e5e2fa4557076a/d8444e77-9e2b-4188-9fdc-a4b05258e74e/ah3-c4e564835fcf.jpeg" width="200"/>
 <hr>
-<p>think of me as a place, black and white pencil and ink drawing by MC Escher</p>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/2c3c0415-019e-40dd-91fb-159e1a4293ed/ah3-c64764894405.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/2c3c0415-019e-40dd-91fb-159e1a4293ed/ah3-be3764894405.jpeg" width="200"/>
+<p>full body portrait photograph of Madison Beer as Pocahontas, young beautiful native american woman, perfect symmetrical face, feather jewelry, traditional handmade dress, armed female hunter warrior, (((wild west))) environment, Utah landscape, ultra realistic, concept art, elegant, ((intricate)), ((highly detailed)), depth of field, ((professionally color graded)), 8k, art by artgerm and greg rutkowski and alphonse mucha, 4k, clean, realistic face, realistic eyes, highest quality, realistic hands, trending on artstation, masterpiece, NSFW, five fingers</p>
+<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/40893aa4-3672-47c1-80e6-b2ff4529a9dd/ah3-273b646ed21a.jpg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/40893aa4-3672-47c1-80e6-b2ff4529a9dd/ah3-a0d7646ed21a.jpg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/40893aa4-3672-47c1-80e6-b2ff4529a9dd/ah3-8661646ed21a.jpg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/40893aa4-3672-47c1-80e6-b2ff4529a9dd/ah3-f83c646ed21a.jpg" width="200"/>
 <hr>
 <p>stable diffusion</p>
 <img src="https://img5.arthub.ai/user-uploads/a3f9893dfb797ad379c6671b4d8126343238eff7/d81f7e17-04e0-45a2-b98d-f13bfaa21775/ah3-d0e6480635d.jpeg" width="200"/>
@@ -48,30 +50,22 @@
 <img src="https://img5.arthub.ai/user-uploads/810cb1dba7737909f07d597914e5e2fa4557076a/b1d46950-2b43-48a3-a2cb-61a0f4cffc66/ah3-517664869dfb.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/810cb1dba7737909f07d597914e5e2fa4557076a/b1d46950-2b43-48a3-a2cb-61a0f4cffc66/ah3-33c864869dfb.jpeg" width="200"/>
 <hr>
-<p>WUXIA  liuyifei</p>
-<img src="https://img5.arthub.ai/user-uploads/c1a8d917c09b621925af1c01a7e29416a9e96c5e/084e4433-91b5-461e-acb1-fc3679359e31/ah3-185f647b0581.jpeg" width="200"/>
+<p><lora:add_detail:1>, <lora:epi_noiseoffset2:0.35>, art by Emery Hawkins, Physically based render, Pencil painting, 3/4 view of a A cuban Beauty in a bikini in downtown Miami, the Sun is shining and the Sky is blue. Wearing {glasses:hat}. Photographed from {up close:front:behind}, she is looking {back at the Camera:up away from the camera:straight at the camera}. Her figure is a bit curvy but she is nonetheless a real beauty. Her hair is very {long:short:mohawk}, reaching down to her well formed ass. Her skin is wet, 🤠, Surfing, film grain, Polaroid, L USM, (NSFW), (sexy), (high quality), (8k), (detailed), (masterpiece), (((realistic hands)))</p>
+<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/d48373d8-d930-45f4-a584-c06080b04f64/ah3-2cfc647f1fec.jpg" width="200"/>
 <hr>
-<p>face portrait of MeiyuCipher 1girl orange spike aura in motion, damaged chinese clothes, floating pieces, trending on artstation, sharp focus, intricate details, highly detailed, detailed face (ink and watercolor painting, brushstrokes, by Russ Mills and Yoji Shinkawa) best quality, absurdres, (negative space), <lora:GlowingRunesAIV3:0.5></p>
-<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-f95764799f48.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-2ce864799f48.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-c4fd64799f48.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-f6b264799f48.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-26de64799f48.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-a3964799f48.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-882264799f48.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-b87464799f48.jpeg" width="200"/>
+<p>shell setprop debug ottcg config</p>
+<img src="https://img5.arthub.ai/user-uploads/f66a57cd27e101284b99d63a10f19d6f5b184a81/0c2d371d-e8cf-43bc-908b-2e28187e93fb/ah3-76ec64880bd5.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/f66a57cd27e101284b99d63a10f19d6f5b184a81/0c2d371d-e8cf-43bc-908b-2e28187e93fb/ah3-886264880bd5.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/f66a57cd27e101284b99d63a10f19d6f5b184a81/0c2d371d-e8cf-43bc-908b-2e28187e93fb/ah3-5ff964880bd5.jpeg" width="200"/>
+<hr>
+<p>best quality, face focus, soft light, (depth of field), ultra high res, (photorealistic:1.4), RAW photo, (portrait:1.4), (from side:1.2) 1japanese girl, solo, cute, (shy, smile:1.1), (brown eyes), detailed beautiful face, (midi_hair), The Great Hall of a European Castle, walking, (burgundy formal long dress:1.4) <lora:japaneseDollLikeness_v10:0.2>, Canon50</p>
+<img src="https://img5.arthub.ai/user-uploads/1d7c959d735917cbe4f99ff34bfb9de9b490c3b0/1f85abe7-80b8-4457-a9e2-91410b182020/ah3-ad8a6485ae97.jpeg" width="200"/>
 <hr>
 <p>anthropomorphic humans as city scene by the water, psychedelic cyberpunk, collaboration by Salvador Dali and Max Ernst and Andy Warhol</p>
 <img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/a7b86504-2d32-4fbb-b5e2-17656fcdf9f9/ah3-ca0f6489fb2b.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/a7b86504-2d32-4fbb-b5e2-17656fcdf9f9/ah3-adf56489fb2b.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/a7b86504-2d32-4fbb-b5e2-17656fcdf9f9/ah3-d2d86489fb2b.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/a7b86504-2d32-4fbb-b5e2-17656fcdf9f9/ah3-954b6489fb2b.jpeg" width="200"/>
-<hr>
-<p>full body portrait photograph of Madison Beer as Pocahontas, young beautiful native american woman, perfect symmetrical face, feather jewelry, traditional handmade dress, armed female hunter warrior, (((wild west))) environment, Utah landscape, ultra realistic, concept art, elegant, ((intricate)), ((highly detailed)), depth of field, ((professionally color graded)), 8k, art by artgerm and greg rutkowski and alphonse mucha, 4k, clean, realistic face, realistic eyes, highest quality, realistic hands, trending on artstation, masterpiece, NSFW, five fingers</p>
-<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/40893aa4-3672-47c1-80e6-b2ff4529a9dd/ah3-273b646ed21a.jpg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/40893aa4-3672-47c1-80e6-b2ff4529a9dd/ah3-a0d7646ed21a.jpg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/40893aa4-3672-47c1-80e6-b2ff4529a9dd/ah3-8661646ed21a.jpg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/493544edd97bab0062be7054e6d3baf9eb75d464/40893aa4-3672-47c1-80e6-b2ff4529a9dd/ah3-f83c646ed21a.jpg" width="200"/>
 <hr>
 <p>Professional portrait, young red haired woman looking concerned in a futuristic military outfit, saluting the camera, small wasit, huge boobs, enormous boobs, zzz cup boobs, combat boots, rank medals, military jacket, tight military jacket, tight around the boobs, slender legs, form fitting pants, blank pants, ((intense concentration look)), full body picture, standing in the command center of a spaceship, freckles, beautiful symmetrical face, cute natural makeup, makeup, Kodak Ultra Max, 85mm, shot on iphone 7, dslr, high quality, raw, 4k, concept art, elegant, highly detailed, intricate, sharp focus, depth of field, f/1. 8, 85mm, (professionally color graded), ((bright soft diffused light)), trending on instagram, trending on tumblr, hdr 4k, 8k</p>
 <img src="https://img5.arthub.ai/user-uploads/a17cbc85691bf3df365e773330ea63f9a80f69d1/16c53f71-43e0-4e45-a6a4-e0c7e28bb9d6/ah3-90a164876c81.jpeg" width="200"/>
@@ -121,8 +115,15 @@ Negative prompt: badhandv4, easynegative, logo, text, ((bad hands)), missing fin
 <img src="https://img5.arthub.ai/user-uploads/5cc9925e0fa98274d7881e4af1fd3f1f4c2741ed/4eb568dc-123f-4654-a824-bc6276e0c744/ah3-c491643cffbd.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/5cc9925e0fa98274d7881e4af1fd3f1f4c2741ed/4eb568dc-123f-4654-a824-bc6276e0c744/ah3-4467643cffbd.jpeg" width="200"/>
 <hr>
-<p>best quality, face focus, soft light, (depth of field), ultra high res, (photorealistic:1.4), RAW photo, (portrait:1.4), (from side:1.2) 1japanese girl, solo, cute, (shy, smile:1.1), (brown eyes), detailed beautiful face, (midi_hair), The Great Hall of a European Castle, walking, (burgundy formal long dress:1.4) <lora:japaneseDollLikeness_v10:0.2>, Canon50</p>
-<img src="https://img5.arthub.ai/user-uploads/1d7c959d735917cbe4f99ff34bfb9de9b490c3b0/1f85abe7-80b8-4457-a9e2-91410b182020/ah3-ad8a6485ae97.jpeg" width="200"/>
+<p>face portrait of MeiyuCipher 1girl orange spike aura in motion, damaged chinese clothes, floating pieces, trending on artstation, sharp focus, intricate details, highly detailed, detailed face (ink and watercolor painting, brushstrokes, by Russ Mills and Yoji Shinkawa) best quality, absurdres, (negative space), <lora:GlowingRunesAIV3:0.5></p>
+<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-f95764799f48.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-2ce864799f48.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-c4fd64799f48.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-f6b264799f48.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-26de64799f48.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-a3964799f48.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-882264799f48.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/bddcb00b2b91ec1b77bcedb03546f4a967ee32c2/5b19e1b3-bd46-4743-adfb-807979131f35/ah3-b87464799f48.jpeg" width="200"/>
 <hr>
 <p>taking pictures at the seaside</p>
 <img src="https://img5.arthub.ai/user-uploads/8754984f854884853f7b96e02da96c8166b1209e/b6b94551-0dab-4cd9-8a59-090df358a4f8/ah3-966a647013c2.jpeg" width="200"/>
@@ -134,10 +135,9 @@ Negative prompt: badhandv4, easynegative, logo, text, ((bad hands)), missing fin
 <img src="https://img5.arthub.ai/user-uploads/8754984f854884853f7b96e02da96c8166b1209e/b6b94551-0dab-4cd9-8a59-090df358a4f8/ah3-94c7647013c2.jpeg" width="200"/>
 <img src="https://img5.arthub.ai/user-uploads/8754984f854884853f7b96e02da96c8166b1209e/b6b94551-0dab-4cd9-8a59-090df358a4f8/ah3-4a30647013c2.jpeg" width="200"/>
 <hr>
-<p>shell setprop debug ottcg config</p>
-<img src="https://img5.arthub.ai/user-uploads/f66a57cd27e101284b99d63a10f19d6f5b184a81/0c2d371d-e8cf-43bc-908b-2e28187e93fb/ah3-76ec64880bd5.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/f66a57cd27e101284b99d63a10f19d6f5b184a81/0c2d371d-e8cf-43bc-908b-2e28187e93fb/ah3-886264880bd5.jpeg" width="200"/>
-<img src="https://img5.arthub.ai/user-uploads/f66a57cd27e101284b99d63a10f19d6f5b184a81/0c2d371d-e8cf-43bc-908b-2e28187e93fb/ah3-5ff964880bd5.jpeg" width="200"/>
+<p>think of me as a place, black and white pencil and ink drawing by MC Escher</p>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/2c3c0415-019e-40dd-91fb-159e1a4293ed/ah3-c64764894405.jpeg" width="200"/>
+<img src="https://img5.arthub.ai/user-uploads/c543c4377317bf2985b413c9f3f8a361fda22a7b/2c3c0415-019e-40dd-91fb-159e1a4293ed/ah3-be3764894405.jpeg" width="200"/>
 <hr>
 <p>1. mdjrny-v4 style, A real perfect female anatomy made by beautiful and elegant pure white bio organic ceramic   hyper details   concept futuristic style and ecorche style   cinematic lights   photo bashing   epic cinematic   octane render   extremely high detail   post processing   8k   denoise --upbeta --g 2 --v 4</p>
 <img src="https://img5.arthub.ai/user-uploads/bbc6314d3b57e1d1eb74e8fee7088e2f4e61e5e9/90309970-c396-4966-ae82-c39734968812/ah3-8990647c362b.jpeg" width="200"/>
