@@ -1,3 +1,3 @@
 ## 每日prompt
-### 2023-12-31
+### 2024-01-01
 <center class="half"></center>
