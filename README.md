@@ -1,3 +1,3 @@
 ## 每日prompt
-### 2024-08-01
+### 2024-08-02
 <center class="half"></center>
